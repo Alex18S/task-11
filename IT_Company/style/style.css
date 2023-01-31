@@ -1,0 +1,71 @@
+.name{
+    color: #34495E;
+    font-size: 30px;
+    line-height: 42px;
+    text-decoration-line: underline;
+}
+
+body{
+    font-family: inter;
+    }
+
+.mein{
+    background-color: #3498DB;
+}
+.info{
+    background-color: #8E44AD;
+}
+.company{
+    background-color: #16A085;
+}
+
+.name_company{
+    font-size: 30px;
+    text-align: center;
+}
+
+.links{
+background-color:white;  
+border: 2px solid white;
+}
+
+.links a{
+text-decoration: none;
+}
+
+.links img{
+width: 100px;
+height: 100px;
+object-fit: cover;
+margin: 0 2px;
+}
+
+.it_2023{
+    font-size: 30px;
+    text-align: center;
+}
+
+.products{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+ }
+  
+ .products td{
+    border: 1px solid black;
+    padding: 10px;
+ }
+ .table{
+    border: 1px solid black;
+     border-collapse: collapse;
+     width: 50%; text-align: center;
+ }
+ .table td{
+    border: 1px solid black;
+    padding: 10px;
+ }
+
+ .nummer_text{
+    font-size: 20px;
+    font-style: italic;
+ }
